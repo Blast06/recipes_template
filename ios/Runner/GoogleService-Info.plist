@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>484687691743-8b1pua62a9ecsca9tpghoahqg68i7vjv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.484687691743-8b1pua62a9ecsca9tpghoahqg68i7vjv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>484687691743-5afb3hdttke19sc226hvoajae93cvkvf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxXxlpFW7rtyYlOlRvJO0vhQvGSDHuZ4w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>484687691743</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iqonic.ricetta</string>
+	<key>PROJECT_ID</key>
+	<string>flut-recipe-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flut-recipe-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:484687691743:ios:e8405bd2fb55a328298e6a</string>
+</dict>
+</plist>
