@@ -19,6 +19,7 @@ import 'package:recipe_app/store/filter_store.dart';
 import 'package:recipe_app/utils/Colors.dart';
 import 'package:recipe_app/utils/Common.dart';
 import 'package:recipe_app/utils/Constants.dart';
+import 'package:recipe_app/utils/Translations.dart';
 import 'package:sqflite/sqflite.dart';
 
 import 'controllers/AdmobController.dart';
@@ -120,6 +121,7 @@ class _MyAppState extends State<MyApp> {
         localizationsDelegates: [AppLocalizations(), GlobalMaterialLocalizations.delegate, GlobalWidgetsLocalizations.delegate],
         localeResolutionCallback: (locale, supportedLocales) => locale,
         locale: Locale(appStore.selectedLanguageCode),
+        translations: MyTransalations(),
       ),
     );
   }
