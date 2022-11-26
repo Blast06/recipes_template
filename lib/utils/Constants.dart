@@ -1,6 +1,6 @@
 import 'package:recipe_app/main.dart';
 
-const mAppName = 'Ricetta';
+const mAppName = 'Recetas Dominicanas';
 
 const mBaseUrl = 'https://myappsapi.xyz/recetasapps/ricetta_backend/api/';
 
