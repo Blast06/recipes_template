@@ -43,7 +43,8 @@ class MyTransalations extends Translations {
           'add_points':'Add score',
           'sound':'Sound',
           'teams':'Teams',
-          'latest_recipes':'Latest Recipes2'
+          'latest_recipes':'Latest Recipes',
+          'sign_up_to_your_account':'Sign up to your account',
         },
         'es': {
           'title': 'Apuntes de Domino',
@@ -83,7 +84,8 @@ class MyTransalations extends Translations {
           'add_points':'Agregar puntos',
           'sound':'sonido',
           'teams':'Equipos',
-          'latest_recipes':'Ultimas recetas'
+          'latest_recipes':'Ultimas recetas',
+          'sign_up_to_your_account': 'Registrar cuenta',
         },
       };
 }

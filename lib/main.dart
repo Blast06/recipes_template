@@ -120,7 +120,8 @@ class _MyAppState extends State<MyApp> {
         supportedLocales: LanguageDataModel.languageLocales(),
         localizationsDelegates: [AppLocalizations(), GlobalMaterialLocalizations.delegate, GlobalWidgetsLocalizations.delegate],
         localeResolutionCallback: (locale, supportedLocales) => locale,
-        locale: Locale(appStore.selectedLanguageCode),
+        // locale: Locale(appStore.selectedLanguageCode),
+        locale: Get.deviceLocale,
         translations: MyTransalations(),
       ),
     );
