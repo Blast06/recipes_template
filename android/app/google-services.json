@@ -1,34 +1,366 @@
 {
   "project_info": {
-    "project_number": "484687691743",
-    "project_id": "flut-recipe-app",
-    "storage_bucket": "flut-recipe-app.appspot.com"
+    "project_number": "654508927394",
+    "firebase_url": "https://cursofirebase-18110.firebaseio.com",
+    "project_id": "cursofirebase-18110",
+    "storage_bucket": "cursofirebase-18110.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:484687691743:android:aeb2b8d00af79ce4298e6a",
+        "mobilesdk_app_id": "1:654508927394:android:4e513d220643dde0",
         "android_client_info": {
-          "package_name": "com.iqonic.ricetta"
+          "package_name": "com.comocrecer.elpelo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "484687691743-cgsgujrj2p6ls2mfhpb3hnmhhd20oomd.apps.googleusercontent.com",
+          "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCHAocsBLMbl_GZKezBoNwwvNzMRZPGi54"
+          "current_key": "AIzaSyCHOVccte3fBJv-KQyq8j5BcBpEwQ7GS1s"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "484687691743-cgsgujrj2p6ls2mfhpb3hnmhhd20oomd.apps.googleusercontent.com",
+              "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "654508927394-1e5s1ohtepum7q864vi76l94u7nqp0uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "creador.de.frases"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654508927394:android:535704d04752d7c2dceafb",
+        "android_client_info": {
+          "package_name": "com.desayunos.veganos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOVccte3fBJv-KQyq8j5BcBpEwQ7GS1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654508927394-1e5s1ohtepum7q864vi76l94u7nqp0uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "creador.de.frases"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654508927394:android:48fcae137940f388dceafb",
+        "android_client_info": {
+          "package_name": "com.dominoes.anotarapuntes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOVccte3fBJv-KQyq8j5BcBpEwQ7GS1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654508927394-1e5s1ohtepum7q864vi76l94u7nqp0uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "creador.de.frases"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654508927394:android:da07ea6dd0999c2edceafb",
+        "android_client_info": {
+          "package_name": "com.download.fromigandfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOVccte3fBJv-KQyq8j5BcBpEwQ7GS1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654508927394-1e5s1ohtepum7q864vi76l94u7nqp0uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "creador.de.frases"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654508927394:android:7e80bd518b792736",
+        "android_client_info": {
+          "package_name": "com.dtapps.adivinaelpersonajejuegotronos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOVccte3fBJv-KQyq8j5BcBpEwQ7GS1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654508927394-1e5s1ohtepum7q864vi76l94u7nqp0uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "creador.de.frases"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654508927394:android:b0dac56b6f943e45dceafb",
+        "android_client_info": {
+          "package_name": "com.dtapps.adivinaelyoutuberdeespana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOVccte3fBJv-KQyq8j5BcBpEwQ7GS1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654508927394-1e5s1ohtepum7q864vi76l94u7nqp0uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "creador.de.frases"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654508927394:android:9276fbe6c0e3e692",
+        "android_client_info": {
+          "package_name": "com.recetascocina.dominicana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOVccte3fBJv-KQyq8j5BcBpEwQ7GS1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654508927394-1e5s1ohtepum7q864vi76l94u7nqp0uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "creador.de.frases"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654508927394:android:d39b99a923562745",
+        "android_client_info": {
+          "package_name": "com.subirdepeso.rapido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOVccte3fBJv-KQyq8j5BcBpEwQ7GS1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654508927394-1e5s1ohtepum7q864vi76l94u7nqp0uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "creador.de.frases"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654508927394:android:529f56075800eb12dceafb",
+        "android_client_info": {
+          "package_name": "creador.defrases.paravideos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOVccte3fBJv-KQyq8j5BcBpEwQ7GS1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654508927394-1e5s1ohtepum7q864vi76l94u7nqp0uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "creador.de.frases"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654508927394:android:da5264f14cde1ecfdceafb",
+        "android_client_info": {
+          "package_name": "ig.video.downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOVccte3fBJv-KQyq8j5BcBpEwQ7GS1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654508927394-3d49gvnfua8m8g30i016fta0l10qoai4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654508927394-1e5s1ohtepum7q864vi76l94u7nqp0uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "creador.de.frases"
+              }
             }
           ]
         }
